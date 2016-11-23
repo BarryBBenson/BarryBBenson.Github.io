@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had no knowledge</td>
+    <td>I had no idea</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully create the infrastructure so that my Google Doc template would publish.</td>
+    <td>To create a template for Google Docs to publish</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,21 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mainly by focused listening and watching a demonstration.</td>
+    <td>I learned by listening to instructions and being intuitive</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The first set of instructions went well, although I managed to get confused when the program showed up a slightly different version of the information and I got distracted by menus that weren't relevant.  
-
-This made me change my ways and I decided to take quick notes (on paper) so that I could remember the instructions in the correct order next time.  This strategy helped me a lot, and the next process went really smoothly.</td>
+    <td>I sometimes got lost on the website. I should Listen closer about what to do before actually commiting to the action</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Always be ready to make notes so that I don’t forget, and I can work better independently when things go a bit wrong...</td>
+    <td>Take notes and take care when navigating the website.</td>
   </tr>
 </table>
 
